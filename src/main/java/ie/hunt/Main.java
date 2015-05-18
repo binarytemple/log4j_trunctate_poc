@@ -1,4 +1,4 @@
-package ie.hunt.Main;
+package ie.hunt;
 
 import org.apache.log4j.Logger;
 
